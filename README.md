@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This branch is identical to the upstream repository and is not currently needed. This fork may be removed later.
+> This fork is identical to the upstream repository and is not currently needed. This page may be removed later, so please contribute to the main branch of UE4SS.
 
 # Unreal Engine 4/5 Scripting System
 
